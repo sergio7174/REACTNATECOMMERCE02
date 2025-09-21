@@ -32,6 +32,7 @@ $ npx expo start -c  (to start the application - cleaning Cache Memory)
 ![Static Badge](https://img.shields.io/badge/Styled%20Components-%23D1D1D1?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/expo-%23E89F28?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/axios-%23D1D1D1?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Firebase-%23D1D1D1?style=for-the-badge)
 
 ##  Screenshots:
 <br>
