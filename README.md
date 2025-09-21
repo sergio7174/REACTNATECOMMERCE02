@@ -1,6 +1,6 @@
 <h1 align ="center" > 🖥️ 📸 📱 🤖 - React-Native-Ecommerce  </h1>
 <h3  align ="center"> 
-A boilerplate for a ecommerce mobile app using React Native and Redux. IOs and Android </h3>
+A boilerplate for a Ecommerce mobile app using React Native and Redux-Toolkit, Firebase Auth. IOs and Android </h3>
 <br>
 
   * [Configuration and Setup](#configuration-and-setup)
